@@ -5,12 +5,6 @@ A virtual keyboard using OpenCV, Mediapipe, and PyAutoGUI
 
 This project is a **virtual keyboard** built with **OpenCV**, **MediaPipe**, and **PyAutoGUI**. It uses your **webcam** to detect hand gestures and simulates key presses when your **index** and **middle fingers** come close on a key. A click sound provides feedback for each press.
 
----
-
-## 📹 Demo
-> *(Add your GIF or YouTube link here)*
-
----
 
 ## 🧠 How It Works
 
